@@ -11,7 +11,7 @@
     
 </div>
 <div style="display: inline_block"><br>
-  <div> <p style: color: black;>Tecnologias que ultilizo e estudo.</p></div>
+  <h4>Tecnologias que ultilizo e estudo.</h4>
  
   <img align="center" alt="biel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="biel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
